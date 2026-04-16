@@ -55,7 +55,3 @@ Fork, adjust, don't ask permission.
 ## Credits
 
 Draws on published work from Russell Barkley, Thomas Brown, John Ratey, Ned Hallowell, Melissa Orlov, Steven Safren, Holly White, Jeff Copper, Brendan Mahan, Jessica McCabe, Cal Newport, Tiago Forte, and the broader adult ADHD research and coaching community.
-
-## License
-
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use it, remix it, share it, credit the original.
